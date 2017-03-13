@@ -1,0 +1,2 @@
+# jackpot
+Simple jackpot simulator
